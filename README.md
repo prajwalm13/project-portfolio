@@ -1,4 +1,4 @@
 # project-portfolio
 My portfolio
 <br>
-Authour - Prajwal M
+Authour - Prajwal M(WEB Developer)
